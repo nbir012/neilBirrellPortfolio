@@ -17,13 +17,15 @@ organizations:
   url: https://www.linkedin.com/in/neilbirrell/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in entomology, insects as food and biotechnology
+bio: I'm interested in entomology, insects as food and feed and tinkering with arduinos and raspberry pis
 
 # Interests to show in About widget
 interests:
-- Alternative 
-- Computational Linguistics
-- Information Retrieval
+- Biology
+- Entomology
+- Insects as Food & Feed (entomophagy)
+- 
+
 
 # Education to show in About widget
 education:
@@ -46,9 +48,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:n.birrell@auckland.ac.nz
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=tg-YRR4AAAAJ&hl=en&oi=sra
+- icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7961-1626
+- icon: inaturalist  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://inaturalist.nz/people/nbir012
+- icon: figshare  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://figshare.com/authors/Neil_Birrell/3254157
 - icon: github
   icon_pack: fab
   link: https://github.com/nbir012
@@ -70,8 +81,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a PhD candidate at the University of Auckland in Aotearoa New Zealand. I'm interested in a diverse range of topics in biology, such as: entomology, insects as food and feed, taxonomy, sexual selection and developmental plasticity. My masters thesis investigated allometry in sexually selected traits of *Hermetia illucens*, the black soldier fly. My PhD thesis is investigating insects as food in Aoteroa and focuses on public perceptions of insects as food, the reproductive biology of an endemic cerambycid beetle, *Prionoplus reticularis*, and, sexually selected traits in scramble competitions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
