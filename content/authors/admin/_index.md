@@ -24,7 +24,7 @@ interests:
 - Biology
 - Entomology
 - Insects as Food & Feed (entomophagy)
-- 
+
 
 
 # Education to show in About widget
