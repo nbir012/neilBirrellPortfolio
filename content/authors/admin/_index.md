@@ -6,15 +6,12 @@ title: Neil Birrell
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate & Maggot Wrangler
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Auckland
   url: https://unidirectory.auckland.ac.nz/profile/n-birrell
-
-- name: Hexacycle Limited
-  url: https://www.linkedin.com/in/neilbirrell/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm interested in entomology, insects as food and feed and tinkering with arduinos and raspberry pis
